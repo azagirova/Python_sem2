@@ -6,7 +6,6 @@
 # перевернуть
 
 # import random
-
 # from random import randint
 
 # total_coins = int(input("Введите количество монет: "))
@@ -25,7 +24,6 @@
 #     turn_coins = b
 # else:
 #     turn_coins = a
-
 # print(f"минимальное количество монет, которые нужно перевернуть: {turn_coins}")
 
 
@@ -43,7 +41,6 @@
 # Y = S - X
 # if X <= 1000 and Y <= 1000:
 #     print("Петя загадал числа больше 1000")
-
 # print(f"Числа, загаданные Петей: {X, Y} ")
 
 
